@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@300;400;800&family=Teko:wght@600&display=swap');
+
+
+body {
+  background: linear-gradient(90deg, rgba(43,44,45,1) 0%, rgba(91,93,94,1) 35%, rgba(93,96,98,1) 100%);
+  width: 100%;  
+  font-family: Manrope, sans-serif;
+}
+
+.box {
+      background: rgb(240, 240, 240);
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%,-50%);
+      padding: 80px;
+      border-radius: 10px;
+      border: 3px solid #2b2c2d;
+}
+
+h1 {
+  color: #2b2c2d;
+}
+
+h2 {
+  color: rgb(0, 0, 0);
+  font-size: 18px;
+}

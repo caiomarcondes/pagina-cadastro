@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Economica:wght@400;700&family=Manrope:wght@800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@300;400;800&family=Teko:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700;800&display=swap');
+
+
+body {
+    background: linear-gradient(90deg, rgba(43,44,45,1) 0%, rgba(91,93,94,1) 35%, rgba(93,96,98,1) 100%);
+    font-family: Manrope, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.michel {
+    background-color: #2b2c2d;
+    font-size: 24px;
+    font-family: Economica;
+    font-weight: bold;
+    color: #fff;
+    padding: 13px;
+    margin-bottom: 3%;
+}
+  
+h2 {
+    text-align: center;
+    font-family: Rubik;
+    font-weight: 700;
+}
+
+.container {
+    max-width: 530px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 60px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 3%;
+}
+
+
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+footer {
+    font-size: 15px;
+    font-family: Rubik, sans-serif;
+    width: 100%;
+    background-color: #2b2c2d;
+    color: #fff;
+    text-align: center;
+    padding: 30px 0;
+    z-index: -1;
+  }
