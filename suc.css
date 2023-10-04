@@ -20,6 +20,8 @@ body {
 
 h1 {
   color: #2b2c2d;
+  text-align: center;
+  font-weight: bold;
 }
 
 h2 {
